@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my master's thesis in criminal justice and public administration
+- 🌱 I’m currently learning R
 <!--
 **tdooley00/tdooley00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
